@@ -1,18 +1,14 @@
-# This is a sample Python script.
+num = int(input("Introduzca un número de calificación: "))
 
-# Press Mayús+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
-
-
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
-
-
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
-
-num1 = input("Introduce una calificacion entre o y 10")
-
-def calificaciones(num1):
+if (9<= num) and (num <= 10):
+    print("A")
+elif (8<= num) and (num < 9):
+    print("B")
+elif (7 <= num) and (num < 8):
+    print("C")
+elif (6<= num) and (num < 7):
+    print("D")
+elif (0<= num) and (num < 6):
+    print("F")
+else:
+    print("El número no esta comprendido entre 0 y 10")
