@@ -2,8 +2,8 @@
 
 cadena = "Hola mundo"
 
-print(''.join(reversed(cadena)))
-print((cadena[::-1]))
+#print(''.join(reversed(cadena)))
+#print((cadena[::-1]))
 
 def reverse(cadena):
     cadenaInver = ""
@@ -12,3 +12,11 @@ def reverse(cadena):
     print(cadenaInver)
 
 reverse(cadena)
+
+def reverse2(cadena):
+    cadenaVacia = ""
+    for i in (cadena[::-1]):
+        cadenaVacia = cadenaVacia + i
+    print(cadenaVacia)
+
+reverse2(cadena)
