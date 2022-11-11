@@ -2,6 +2,6 @@
 
 Aqui se subiran los proyectos del módulo de Puesta en Produccion Segura
 
-[Alejandro](https://alvaroperezrey.github.io/Puesta_Produccio_Segura/PPS_Alejandro/)
+[Alejandro](https://alvaroperezrey.github.io/Puesta_Produccion_Segura/PPS_Alejandro/)
 
-[Manuel](https://alvaroperezrey.github.io/Puesta_Produccio_Segura/PPS_Manuel/)
+[Manuel](https://alvaroperezrey.github.io/Puesta_Produccion_Segura/PPS_Manuel/)
