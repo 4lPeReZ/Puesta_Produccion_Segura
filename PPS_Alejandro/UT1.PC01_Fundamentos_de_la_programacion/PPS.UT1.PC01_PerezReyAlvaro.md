@@ -76,7 +76,19 @@ Vamos a elegir los ejercicios 1.2, 2.9 y 2.16
 - Las variables en C se tienen que declarar su tipo mientras que en Python no es necesario obligatoriamente.
 
 ¿Qué diferencias existen entre los dos lenguajes?
-- La estructura if en C se representa como if() y en Python como if:
+
+La estructura if en C se representa como:
+-       if (condición) {
+            Instrucción 1;
+            Instrucción 2;
+            Instrucción n;
+        }
+        else {
+            Instrucción A;
+            Instrucción B;
+            Instrucción Z
+        } 
+y en Python como se muestra en el ejercicio.
 - Python es un lenguaje interpretado mientras que C es un lenguaje compilado
 
 ¿Para qué tipo de programa puede servir cada lenguaje?
@@ -101,7 +113,7 @@ Vamos a elegir los ejercicios 1.2, 2.9 y 2.16
 </p>
 
 ¿Qué diferencias habría en el desarrollo del programa?
-- CAMBIAR CAMBIAR CAMBIAR CAMBIAR CAMBIAR CAMBIAR CAMBIAR CAMBIAR CAMBIAR CAMBIARCAMBIAR CAMBIAR CAMBIAR CAMBIAR CAMBIARCAMBIAR CAMBIAR CAMBIAR CAMBIAR CAMBIARCAMBIAR CAMBIAR CAMBIAR CAMBIAR CAMBIARCAMBIAR CAMBIAR CAMBIAR CAMBIAR CAMBIARCAMBIAR CAMBIAR CAMBIAR CAMBIAR CAMBIARCAMBIAR CAMBIAR CAMBIAR CAMBIAR CAMBIARCAMBIAR CAMBIAR CAMBIAR CAMBIAR CAMBIARCAMBIAR CAMBIAR CAMBIAR CAMBIAR CAMBIAR a la hora de declarar una tupla en lenguaje C se utilizaría un Array, además la declaración de la función sería diferente ya que estamos trabajando con Arrays deberiamos de indicar este tipo al principio de la función.
+-   A la hora de declarar una lista en lenguaje C se utilizaría un Array, además la declaración de la función sería diferente ya que estamos trabajando con Arrays deberiamos de indicar este tipo al principio de la función.
 - Tambien nuestro bucle y nuestro condicional ya que en lenguaje C se estructuran de una manera diferente.
 
 ## 3º [CE. c] Teniendo todos los ejercicios realizados y entregado. Sobre el código fuente creado en la relación de ejercicios de las actividades 0 y 1 de la unidad, realiza en un documento los comentarios sobre todos los ejercicios indicando que elementos del código fuente has utilizado y qué función tienen.
